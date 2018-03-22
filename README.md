@@ -24,6 +24,8 @@ Not much to it...
 
 ### log
 
+Log message data to the browser console window.
+
 ```lua
 console.log(data)
 ```
