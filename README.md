@@ -1,4 +1,4 @@
-# ![logo](logo.png) Corona HTML5 Console Plugin
+# ![logo](icons/logo.png) Corona HTML5 Console Plugin
 
 __A simple plugin for logging to the browser console window.__
 
@@ -49,6 +49,15 @@ A [Corona](https://coronalabs.com) project can be found in the __demo__ director
 ## Notes
 
  - You'll need your browsers "Developer Tools" open to view the console output.
+
+ ## Browser Tests
+
+|![chrome](icons/chrome.png)|![ie](icons/ie.png)|![firefox](icons/firefox.png)|![safari](icons/safari.png)|![opera](icons/opera.png)|
+|---------------------------|-------------------|-----------------------------|---------------------------|-------------------------|
+|![pass](icons/pass.png)|![untested](icons/untested.png)|![pass](icons/pass.png)|![pass](icons/pass.png)|![untested](icons/pass.png)|
+
+
+_Windows browser unconfirmed._
 
 ---
 
