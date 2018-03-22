@@ -11,7 +11,7 @@ This plugin allows you to output to the browser console using the normal `index.
 ## Usage
 
  - Download the __Corona HTML5 Console Plugin__ respository.
- - Move plugin/console.lua and plugin/console_js.js to the root of your HTML5 project.
+ - Move __plugin/console.lua__ and __plugin/console_js.js__ to the ___root___ of your HTML5 project.
  - Require the plugin in your code where you need it.
 
 ```lua
