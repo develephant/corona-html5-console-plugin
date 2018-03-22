@@ -42,7 +42,9 @@ console.log("Wow, something happened!")
 
 ## Notes
 
-You'll need your browsers "Developer Tools" open to view the console output.
+ - You'll need your browsers "Developer Tools" open to view the console output.
+ - A Corona project can be found in the __demo__ directory.
+ - A compiled HTML5 project can be found in the __html5/console__ directory.
 
 ---
 
