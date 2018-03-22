@@ -40,10 +40,13 @@ local console = require("console")
 console.log("Wow, something happened!")
 ```
 
+## Demo
+
+A [Corona](https://coronalabs.com) project can be found in the __demo__ directory that can be compiled to an HTML5 build for testing.
+
 ## Notes
 
  - You'll need your browsers "Developer Tools" open to view the console output.
- - A [Corona](https://coronalabs.com) project can be found in the __demo__ directory that can be compiled to an HTML5 build for testing.
 
 ---
 
