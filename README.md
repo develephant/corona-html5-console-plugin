@@ -4,9 +4,9 @@ __A simple plugin for logging to the browser console window.__
 
 ## Overview
 
-Yes, you can easily use the `print` command while viewing the `index-debug.html` file in your HTML5 build. But I rather prefer the built in browser _Deveopler Tools_ console window.
+Yes, you can easily use the `print` command while viewing the `index-debug.html` file in your HTML5 build. But, this plugin allows you to output to the browser console using the normal `index.html` build.
 
-This plugin allows you to output to the browser console using the normal `index.html` build.
+Pretty amazing stuff.
 
 ## Installation
 
