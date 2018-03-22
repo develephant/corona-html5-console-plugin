@@ -17,7 +17,7 @@ settings =
     defaultViewWidth = 960,
     defaultViewHeight = 640,
     titleText = {
-      default = "Corona HTML5 Plugin"
+      default = "Console Plugin - Corona HTML5"
     }
   },
 

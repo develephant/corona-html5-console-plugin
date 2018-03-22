@@ -5,21 +5,17 @@
 local console = require("console")
 
 --#############################################################################
---# API
+--# Log
 --#############################################################################
 
 --# String
 console.log("Hello")
-
 --# Number
 console.log(42)
-
 --# Boolean
 console.log(true)
-
 --# Array (table)
 console.log({1,2,3,4,5})
-
 --# Table
 console.log({greet="Hello"})
 
