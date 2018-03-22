@@ -43,8 +43,7 @@ console.log("Wow, something happened!")
 ## Notes
 
  - You'll need your browsers "Developer Tools" open to view the console output.
- - A [Corona](https://coronalabs.com) project can be found in the __demo__ directory.
- - A compiled HTML5 project can be found in the __html5/console__ directory.
+ - A [Corona](https://coronalabs.com) project can be found in the __demo__ directory that can be compiled to an HTML5 build for testing.
 
 ---
 
