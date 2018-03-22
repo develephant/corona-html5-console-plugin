@@ -40,6 +40,10 @@ local console = require("console")
 console.log("Wow, something happened!")
 ```
 
+## Notes
+
+You'll need your browsers "Developer Tools" open to view the console output.
+
 ---
 
 &copy;2018 C. Byerley ([develephant](https://develephant.com))
