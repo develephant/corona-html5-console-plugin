@@ -2,11 +2,18 @@
 
 __A simple plugin for logging to the browser console window.__
 
-## Overview
-
 Yes, you can easily use the `print` command while viewing the `index-debug.html` file in your HTML5 build. But, this plugin allows you to output to the browser console using the normal `index.html` build.
 
 Pretty amazing stuff.
+
+ ## Browser Tests
+
+|![chrome](icons/chrome.png)|![ie](icons/ie.png)|![firefox](icons/firefox.png)|![safari](icons/safari.png)|![opera](icons/opera.png)|
+|---------------------------|-------------------|-----------------------------|---------------------------|-------------------------|
+|![pass](icons/pass.png)|![untested](icons/untested.png)|![pass](icons/pass.png)|![pass](icons/pass.png)|![untested](icons/pass.png)|
+
+
+_Windows browser unconfirmed._
 
 ## Installation
 
@@ -49,15 +56,6 @@ A [Corona](https://coronalabs.com) project can be found in the __demo__ director
 ## Notes
 
  - You'll need your browsers "Developer Tools" open to view the console output.
-
- ## Browser Tests
-
-|![chrome](icons/chrome.png)|![ie](icons/ie.png)|![firefox](icons/firefox.png)|![safari](icons/safari.png)|![opera](icons/opera.png)|
-|---------------------------|-------------------|-----------------------------|---------------------------|-------------------------|
-|![pass](icons/pass.png)|![untested](icons/untested.png)|![pass](icons/pass.png)|![pass](icons/pass.png)|![untested](icons/pass.png)|
-
-
-_Windows browser unconfirmed._
 
 ---
 
