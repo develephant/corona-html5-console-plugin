@@ -8,7 +8,7 @@ Yes, you can easily use the `print` command while viewing the `index-debug.html`
 
 This plugin allows you to output to the browser console using the normal `index.html` build.
 
-## Usage
+## Installation
 
  - Download the __Corona HTML5 Console Plugin__ respository.
  - Move __plugin/console.lua__ and __plugin/console_js.js__ to the ___root___ of your HTML5 project.
